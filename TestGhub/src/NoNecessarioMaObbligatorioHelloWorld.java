@@ -9,7 +9,7 @@ public class NoNecessarioMaObbligatorioHelloWorld {
 
 		System.out.println("Sono  alberto!");
 
-		System.err.println("sono fou e questo commento probabilmente non vedrà luce");
+		System.err.println("sono fou e questo commento ha visto la luce");
 
 	}
 }
