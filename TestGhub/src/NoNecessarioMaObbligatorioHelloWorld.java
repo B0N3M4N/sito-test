@@ -23,5 +23,6 @@ public class NoNecessarioMaObbligatorioHelloWorld {
 		System.out.println("sono fou e questo commento ha visto la luce");
 
 		System.out.println("Para bailar la bamba");
+
 	}
 }
