@@ -25,10 +25,8 @@ public class NoNecessarioMaObbligatorioHelloWorld {
 		System.out.println("Para bailar la bamba");
 
 		System.out.println("Ottimo!");
-<<<<<<< HEAD
+
 		System.out.println("Forse forse!");
 
-=======
->>>>>>> branch 'main' of https://github.com/B0N3M4N/sito-test.git
 	}
 }
