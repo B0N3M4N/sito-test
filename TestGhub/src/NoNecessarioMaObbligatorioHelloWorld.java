@@ -16,5 +16,6 @@ public class NoNecessarioMaObbligatorioHelloWorld {
 		System.err.println("sono fou e questo commento ha visto la luce");
 
 		System.out.println("Para bailar la bamba");
+		System.out.println("funziona?");
 	}
 }
