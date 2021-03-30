@@ -24,5 +24,6 @@ public class NoNecessarioMaObbligatorioHelloWorld {
 
 		System.out.println("Para bailar la bamba");
 
+		System.out.println("Ottimo!");
 	}
 }
