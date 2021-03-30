@@ -7,9 +7,14 @@ public class NoNecessarioMaObbligatorioHelloWorld {
 		System.out.println("ez");
 		System.out.println("Ci sono anch'io!");
 
-		System.out.println("Sono alberto!");
+		System.out.println("Sono  alberto!");
+
 
 		System.err.println("sono fou e questo commento probabilmente non vedrà luce");
+		System.out.println("Sono Francesco!");
+
+		System.err.println("sono fou e questo commento ha visto la luce");
+
 
 	}
 }
