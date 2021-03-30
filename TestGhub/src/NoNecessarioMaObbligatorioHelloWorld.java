@@ -6,7 +6,10 @@ public class NoNecessarioMaObbligatorioHelloWorld {
 		System.out.println("gg wp");
 		System.out.println("ez");
 		System.out.println("Ci sono");
-		
+
 		System.out.println("Sono alberto!");
+
+		System.err.println("sono fou e questo commento probabilmente non vedrà luce");
+
 	}
 }
